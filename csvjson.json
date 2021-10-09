@@ -1,0 +1,50 @@
+[
+  {
+    "id": "P010101",
+    "Categoría": "Perros",
+    "Marca": "Camas",
+    "Nombre": "Cama Perro Modelo Nubesin",
+    "Descripción": "Cama Perro Modelo Nubesin, bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla blabla bla bla bla bla",
+    "precio": 50000
+  },
+  {
+    "id": "P010102",
+    "Categoría": "Perros",
+    "Marca": "Rampas",
+    "Nombre": "Rampa Perro Modelo Nubesin",
+    "Descripción": "Rampa Perro Modelo Nubesin, bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla blabla bla bla bla bla",
+    "precio": 20000
+  },
+  {
+    "id": "G010103",
+    "Categoría": "Gatos",
+    "Marca": "Camas",
+    "Nombre": "Cama Gato Modelo Acecho",
+    "Descripción": "Cama Gato Modelo Acecho, bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla blabla bla bla bla bla",
+    "precio": 40000
+  },
+  {
+    "id": "G010104",
+    "Categoría": "Gatos",
+    "Marca": "Rampas",
+    "Nombre": "Rampa Gato Modelo Acecho",
+    "Descripción": "Rampa Gato Modelo Acecho, bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla blabla bla bla bla bla",
+    "precio": 30000
+  },
+  {
+    "id": "G010105",
+    "Categoría": "Gatos",
+    "Marca": "Rascadores",
+    "Nombre": "Rascador Gato Modelo Acecho",
+    "Descripción": "Rascador Gato Modelo Acecho, bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla blabla bla bla bla bla",
+    "precio": 20000
+  },
+  {
+    "id": "G010106",
+    "Categoría": "Gatos",
+    "Marca": "Bebederos",
+    "Nombre": "Bebedero Gato Modelo Acecho",
+    "Descripción": "Bebedero Gato Modelo Acecho, bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla blabla bla bla bla bla",
+    "precio": 20000
+  }
+]
